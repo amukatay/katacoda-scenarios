@@ -1,0 +1,8 @@
+{
+    "scenarios": [
+      {"title": "Displaying Images",
+        "description": "Display images as part of the scenario",
+        "id": "displaying-images"
+      }
+    ]
+  }
