@@ -3,6 +3,11 @@
       {"title": "Displaying Images",
         "description": "Display images as part of the scenario",
         "id": "displaying-images"
+      },
+	  {
+        "title": "Embed Videos into Scenarios",
+        "description": "Learn how to embed YouTube videos into a scenario",
+        "id": "embed-videos"
       }
     ]
   }
