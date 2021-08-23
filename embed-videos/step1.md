@@ -11,4 +11,4 @@ The HTML included is:
 </pre>
 
 
-Test github_webhook4
+Test github_webhook
