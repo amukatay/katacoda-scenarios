@@ -1,13 +1,129 @@
 {
     "scenarios": [
-      {"title": "Displaying Images",
+      {
+        "title": "bash",
+        "description": "bash",
+        "id": "bash"
+      },
+      {
+        "title": "dotnet",
+        "description": "dotnet",
+        "id": "dotnet"
+      },
+      {
+        "title": "go",
+        "description": "go",
+        "id": "go"
+      },
+      {
+        "title": "java",
+        "description": "java",
+        "id": "java"
+      },
+      {
+        "title": "kotlin",
+        "description": "kotlin",
+        "id": "kotlin"
+      },
+      {
+        "title": "kubernetes-cluster",
+        "description": "kubernetes-cluster",
+        "id": "kubernetes-cluster"
+      },
+      {
+        "title": "kubernetes-cluster-running",
+        "description": "kubernetes-cluster-running",
+        "id": "kubernetes-cluster-running"
+      },
+      {
+        "title": "minikube",
+        "description": "minikube",
+        "id": "minikube"
+      },
+      {
+        "title": "nodejs",
+        "description": "nodejs",
+        "id": "nodejs"
+      },
+      {
+        "title": "python",
+        "description": "python",
+        "id": "python"
+      },
+      {
+        "title": "r",
+        "description": "r",
+        "id": "r"
+      },
+      {
+        "title": "ruby",
+        "description": "ruby",
+        "id": "ruby"
+      },
+      {
+        "title": "rust",
+        "description": "rust",
+        "id": "rust"
+      },
+      {
+        "title": "ubuntu-1804",
+        "description": "ubuntu-1804",
+        "id": "ubuntu-1804"
+      },
+      {
+        "title": "Displaying Images",
         "description": "Display images as part of the scenario",
         "id": "displaying-images"
       },
-	  {
+      {
         "title": "Embed Videos into Scenarios",
         "description": "Learn how to embed YouTube videos into a scenario",
         "id": "embed-videos"
+      },
+      {
+        "title": "ubuntu-2004",
+        "description": "ubuntu-2004",
+        "id": "ubuntu-2004"
+      },
+      {
+        "title": "uilayout-editor-terminal",
+        "description": "uilayout-editor-terminal",
+        "id": "uilayout-editor-terminal"
+      },
+      {
+        "title": "uilayout-iframe",
+        "description": "uilayout-iframe",
+        "id": "uilayout-iframe"
+      },
+      {
+        "title": "uilayout-terminal",
+        "description": "uilayout-terminal",
+        "id": "uilayout-terminal"
+      },
+      {
+        "title": "uilayout-terminal-iframe",
+        "description": "uilayout-terminal-iframe",
+        "id": "uilayout-terminal-iframe"
+      },
+      {
+        "title": "uilayout-terminal-iframe-split",
+        "description": "uilayout-terminal-iframe-split",
+        "id": "uilayout-terminal-iframe-split"
+      },
+      {
+        "title": "uilayout-terminal-terminal",
+        "description": "uilayout-terminal-terminal",
+        "id": "uilayout-terminal-terminal"
+      },
+      {
+        "title": "uilayout-terminal-with-vscode",
+        "description": "uilayout-terminal-with-vscodee",
+        "id": "uilayout-terminal-with-vscode"
+      },
+      {
+        "title": "uilayout-vscode-terminal",
+        "description": "uilayout-vscode-terminal",
+        "id": "uilayout-vscode-terminal"
       }
     ]
   }
